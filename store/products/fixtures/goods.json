@@ -1,0 +1,110 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "Jet Kid Start blue Умные детские часы",
+      "description": "",
+      "price": "2310.00",
+      "quantity": 0,
+      "image": "products_images/2023/12/10/1.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "teXet TM-519R черный-красный Мобильный телефон",
+      "description": "",
+      "price": "2490.00",
+      "quantity": 0,
+      "image": "products_images/2023/12/10/2_1.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "BAND 6 FOREST GREEN FARA-B19 HUAWEI",
+      "description": "Бренд: Huawei\r\nТип: фитнес браслет\r\nМатериал корпуса: полимер\r\nТехнология экрана: AMOLED",
+      "price": "5480.00",
+      "quantity": 0,
+      "image": "products_images/2023/12/10/2.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "Умные часы GT 3 MIL-B19S BLACK HUAWEI",
+      "description": "Бренд: Huawei\r\nТип: умные часы\r\nМатериал корпуса: пластик\r\nТехнология экрана: Монохромный",
+      "price": "21810.00",
+      "quantity": 0,
+      "image": "products_images/2023/12/10/3.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Умные часы GT 3 MIL-B19V BROWN HUAWEI",
+      "description": "Бренд: Huawei\r\nТип: умные часы\r\nМатериал корпуса: нержавеющая сталь\r\nТехнология экрана: AMOLED",
+      "price": "21810.00",
+      "quantity": 0,
+      "image": "products_images/2023/12/10/4.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "GT RUNNER-B19S BLACK HUAWEI",
+      "description": "Бренд: Huawei\r\nТип: умные часы\r\nМатериал корпуса: пластик\r\nТехнология экрана: AMOLED",
+      "price": "27770.00",
+      "quantity": 0,
+      "image": "products_images/2023/12/10/5.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+      "name": "GT RUNNER-B19A GREY HUAWEI",
+      "description": "Бренд: Huawei\r\nТип: умные часы\r\nМатериал корпуса: пластик\r\nТехнология экрана: AMOLED",
+      "price": "27770.00",
+      "quantity": 0,
+      "image": "products_images/2023/12/10/6.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+      "name": "Умные часы GT 3 MIL-B19 GOLD HUAWEI",
+      "description": "Бренд: Huawei\r\nТип: умные часы\r\nМатериал корпуса: нержавеющая сталь, пластик\r\nТехнология экрана: AMOLED",
+      "price": "24230.00",
+      "quantity": 0,
+      "image": "products_images/2023/12/10/7.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+      "name": "Умные часы WATCH 3 GALILEO-L11 STEEL",
+      "description": "Бренд: Huawei\r\nТип: умные часы\r\nМатериал корпуса: металл, керамика\r\nТехнология экрана: AMOLED",
+      "price": "32600.00",
+      "quantity": 0,
+      "image": "products_images/2023/12/10/8.jpg",
+      "category": 1
+    }
+  }
+]
